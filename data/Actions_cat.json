@@ -1,0 +1,11 @@
+{
+    "Bad Actions":{
+        "Action 1": "Making a joke",
+        "Action 2": "Objecting to teaching style",
+        "Action 3": "Ask question beyond the scope of lecture."
+    },
+    "Good Actions":{
+        "Action 1": "Asking in-depth questions.",
+        "Action 2": "Making creative and collaborative suggestions"
+    }
+}

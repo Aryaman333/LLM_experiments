@@ -1,0 +1,44 @@
+{
+    "responses": [
+        {
+            "Question 1": {
+                "question": "What are some teaching strategies you need to consider to teach an even larger diversity of students?",
+                "answer": "Incorporate differentiated instruction, use culturally relevant materials, implement collaborative learning, and provide multiple means of engagement to cater to various learning styles and backgrounds."
+            },
+            "Question 2": {
+                "question": "How would you respond if a student objects to your teaching style?",
+                "answer": "I would listen to the student's concerns, ask for specific feedback, and be open to adjusting my approach while explaining the rationale behind my teaching methods."
+            }
+        },
+        {
+            "Question 3": {
+                "question": "How would you ensure that students who do not pay attention to your teaching and indulge in other activities during the lecture are actively involved and are learning the concepts properly?",
+                "answer": "I would use interactive activities, such as group discussions or hands-on projects, and regularly check for understanding through quick assessments or questions to keep students engaged."
+            },
+            "Question 4": {
+                "question": "Suppose a new student joins the lecture, you do not know anything about the student. How would you change your teaching strategies?",
+                "answer": "I would create a welcoming environment, encourage peer introductions, and use icebreaker activities to learn about the new student while ensuring my teaching is inclusive and adaptable."
+            }
+        },
+        {
+            "Question 5": {
+                "question": "One of the students is trying to distract the class by taking the conversations off-topic. How would you respond to that?",
+                "answer": "I would gently redirect the conversation back to the topic at hand, acknowledging the student's input while emphasizing the importance of staying focused on the lesson."
+            },
+            "Question 6": {
+                "question": "What are the teaching strategies you employ for including different kinds of students in the lecture?",
+                "answer": "I use a mix of visual aids, hands-on activities, group work, and technology to address various learning preferences and ensure all students can participate meaningfully."
+            }
+        },
+        {
+            "Question 7": {
+                "question": "One of the students is very intelligent and understands complex concepts easily while another student does not understand the simplest of concepts. How would you ensure that the lecture is interesting for both students?",
+                "answer": "I would provide tiered assignments that challenge advanced students while offering additional support and resources for those who need it, ensuring both groups are engaged and learning."
+            },
+            "Question 8": {
+                "question": "How would you make sure that the students ask meaningful questions?",
+                "answer": "I would model effective questioning techniques, encourage curiosity, and create a safe space for inquiry by rewarding thoughtful questions and providing prompts to guide their thinking."
+            }
+        }
+    ]
+}

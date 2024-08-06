@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Amina Hussein",
+        "user": "student 1",
+        "Origin": "Somalia, East Africa",
+        "Background": "Amina is a scholar and very inquisitive. She likes to discuss her nomadic heritage. She volunteers to help the local community and is also concerened about the global population. ",
+        "Actions":{
+            "Action 1": "Ask question beyond the scope of lecture."
+        }
+    },
+    {
+        "Name": "Rajesh Kumar",
+        "user": "student 2",
+        "Origin": "Tamil Nadu, India",
+        "Background": "Rajesh is a practical person but is shy of asking questions. He prefers to understand concepts by himself and pays less attention to the teacher. He asks questions that require critical thinking.",
+        "Actions":{
+            "Action 1": "Object to the teaching style."
+        }
+    },
+    {
+        "Name": "Svetlana Petrov",
+        "user": "student 3",
+        "Origin": "Moscow, Russia",
+        "Background": "Svetlina is a creative and imaginative person. She likes to joke around. She is a part of various clubs. She presents solutions to problems in a very creative way.",
+        "Actions":{
+            "Action 1": "Make a joke."
+        }
+    }
+]

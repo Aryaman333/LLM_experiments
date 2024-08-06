@@ -1,0 +1,17 @@
+[
+    {
+        "Action Name": "Making a joke",
+        "Effect": "Negative",
+        "Response": "Correct student and advise to stick to the lecture."
+    },
+    {
+        "Action Name": "Objecting to teaching style",
+        "Effect": "Positive-Negative",
+        "Response": "Respond positively initially, if happens again correct the student."
+    },
+    {
+        "Action Name": "Ask question beyond the scope of lecture.",
+        "Effect": "Positive-Negative",
+        "Response": "Respond positively if question related to the lecture else ask student to stick to the topic of the lecture."
+    }
+]

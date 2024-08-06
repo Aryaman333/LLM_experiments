@@ -1,0 +1,40 @@
+{
+    "responses": [
+        {
+            "Question 1": {
+                "question": "How would you respond if a student objects to your teaching style? Will your response change if the student objects many times?",
+                "answer": "I would listen to the student's concerns and ask for specific feedback to understand their perspective. If objections continue, I would schedule a one-on-one discussion to explore their issues further and adapt my approach where possible."
+            }
+        },
+        {
+            "Question 2": {
+                "question": "How would you respond if a student makes a joke during the lecture? Will your response change if a student is constantly joking?",
+                "answer": "I would acknowledge the joke with a light-hearted response to maintain a positive atmosphere. If a student constantly jokes, I would address it privately, explaining the importance of staying focused during lectures."
+            }
+        },
+        {
+            "Question 3": {
+                "question": "One of the students is very intelligent and understands complex concepts easily while another student does not understand the simplest of concepts. How would you ensure that the lecture is interesting for both students?",
+                "answer": "I would incorporate differentiated instruction, providing advanced materials for the quicker learner while using visual aids and hands-on activities for the struggling student. Group work can also help them learn from each other."
+            }
+        },
+        {
+            "Question 4": {
+                "question": "How did you consider each student's background while forming your teaching plan? Answer by giving teaching strategies for each student.",
+                "answer": "I would use culturally relevant examples for students from diverse backgrounds, incorporate varied learning styles (visual, auditory, kinesthetic), and provide additional resources for students needing extra help while challenging advanced learners with enrichment activities."
+            }
+        },
+        {
+            "Question 5": {
+                "question": "One of the students is trying to distract the class by taking the conversations off-topic. How would you respond to that?",
+                "answer": "I would gently redirect the conversation back to the topic at hand, reminding the class of the importance of staying focused. If it continues, I would speak to the student privately to understand their motivations and address any underlying issues."
+            }
+        },
+        {
+            "Question 6": {
+                "question": "How would you make sure that the students ask meaningful questions?",
+                "answer": "I would encourage a questioning culture by modeling open-ended questions, providing wait time after asking questions, and creating a safe environment where students feel comfortable sharing their thoughts and inquiries."
+            }
+        }
+    ]
+}
